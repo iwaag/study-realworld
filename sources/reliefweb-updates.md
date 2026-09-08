@@ -55,7 +55,9 @@ API is a documented fallback once an approved `appname` is obtained.
    published 2026-09-08. Extracted title, source organization (UN Children's
    Fund / UNICEF), country tag (Venezuela), publication date, and the full
    multi-paragraph description body (funding figures, named spokesperson
-   quote, beneficiary counts).
+   quote, beneficiary counts). Fetching the report page itself also
+   returned HTTP 403 to a bare request and needed the same browser-like
+   User-Agent header as the RSS URL fetch in step 1.
 4. Wrote a short original-language summary report from that extracted
    material (see
    `../reports/reliefweb-updates/2026-09-09-001/report.md`).

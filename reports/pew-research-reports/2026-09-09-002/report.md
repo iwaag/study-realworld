@@ -1,5 +1,14 @@
 # Refugee Admissions to the US Are Dropping Sharply in Trump's Second Term
 
+Follows: [2026-09-09-001](../2026-09-09-001/report.md)
+
+## Question
+
+Following on from the previous report (the "Latinos and the American
+Dream" report), this pull specifically sought a Pew Research Center
+document about migration, displacement, refugees, or related population
+movement, distinct from that prior report.
+
 ## Coverage
 
 The document is a short-read article covering U.S. refugee admissions trends
